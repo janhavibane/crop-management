@@ -12,7 +12,7 @@ fake = Faker()
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "sa3394hil",
+    "password": "janhavi",
     "database": "crop_management"
 }
 
